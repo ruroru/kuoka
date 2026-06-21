@@ -1,4 +1,4 @@
-(defproject org.clojars.jj/kuoka "1.0.0"
+(defproject org.clojars.jj/kuoka "1.0.1-SNAPSHOT"
   :description "kuoka isa webdav handler for clojure ring."
   :url "https://github.com/ruroru/kuoka"
   :license {:name "Eclipse Public License 2.0"
