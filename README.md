@@ -3,7 +3,7 @@ kuoka is a  webdav handler for clojure ring
 ## Install
 
 ```clojure
-[org.clojars.jj/kuoka "0.1.0-SNAPSHOT"]
+[org.clojars.jj/kuoka "1.0.0"]
 ```
 
 ## Quick start
